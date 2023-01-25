@@ -72,7 +72,11 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
-
+.courses{
+	color: #5b2d5e;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-weight: bold;
+}
 /* Basic */
 
 	html {

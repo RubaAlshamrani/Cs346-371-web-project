@@ -155,6 +155,12 @@ input, select, textarea {
 		font-size: 1em;
 		margin: 0 0 0.25em 0;
 	}
+	h4.mid{
+		font-size: 2em;
+		margin: 0 0 0.25em 0;
+		text-align: center;
+		font-weight: bold;
+	}
 
 	strong, b {
 		font-weight: 400;

@@ -23,7 +23,8 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+	font-family: "Noto Sans Arabic";}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -113,7 +114,6 @@ input, select, textarea {
 		font-weight: 400;
 		color: #483949;
 		line-height: 1.25em;
-		font-family: "Noto Sans Arabic";
 	}
 	h6.ar {
 		font-size: 25px;
@@ -121,14 +121,12 @@ input, select, textarea {
 		font-weight: bold;
 		line-height: 0.1em;
 		text-align: right;
-		font-family: "Noto Sans Arabic";
 	}
 
 	p.ar {
 		color: #000000;
 		line-height: 1.25em;
 		text-align: right;
-		font-family: "Noto Sans Arabic";
 	}
 	
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
